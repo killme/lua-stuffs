@@ -1,0 +1,7 @@
+resources/lua/luapp.lua
+resources/lua/luvit/
+resources/lua/odbxuv/
+resources/lua/test/
+*.kdev4
+bin
+build*

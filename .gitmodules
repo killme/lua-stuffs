@@ -1,0 +1,21 @@
+[submodule "libraries/luvit"]
+	path = libraries/luvit
+	url = https://github.com/Theintercooler/luvit.git
+[submodule "libraries/OpenDBX-uv-lua"]
+	path = libraries/OpenDBX-uv-lua
+	url = https://github.com/Theintercooler/OpenDBX-uv-lua.git
+[submodule "libraries/libuv"]
+	path = libraries/libuv
+	url = https://github.com/Theintercooler/libuv
+[submodule "libraries/Luapp"]
+	path = libraries/Luapp
+	url = https://github.com/Theintercooler/Luapp
+[submodule "libraries/OpenDBX-uv"]
+	path = libraries/OpenDBX-uv
+	url = https://github.com/Theintercooler/OpenDBX-uv
+[submodule "libraries/yajl"]
+	path = libraries/yajl
+	url = https://github.com/Theintercooler/yajl
+[submodule "libraries/http-parser"]
+	path = libraries/http-parser
+	url = https://github.com/Theintercooler/http-parser
