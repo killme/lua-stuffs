@@ -22,3 +22,6 @@
 [submodule "resources/lua/luautil"]
 	path = resources/lua/luautil
 	url = https://github.com/killme/luautil
+[submodule "resources/lua/luagd"]
+	path = resources/lua/luagd
+	url = https://github.com/killme/luagd.git
