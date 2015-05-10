@@ -21,4 +21,4 @@
 	url = https://github.com/Theintercooler/http-parser
 [submodule "resources/lua/luautil"]
 	path = resources/lua/luautil
-	url = git@github.com:killme/luautil.git
+	url = https://github.com/killme/luautil
