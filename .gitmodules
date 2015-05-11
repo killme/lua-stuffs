@@ -6,22 +6,28 @@
 	url = https://github.com/Theintercooler/OpenDBX-uv-lua.git
 [submodule "libraries/libuv"]
 	path = libraries/libuv
-	url = https://github.com/Theintercooler/libuv
+	url = https://github.com/Theintercooler/libuv.git
 [submodule "libraries/Luapp"]
 	path = libraries/Luapp
-	url = https://github.com/Theintercooler/Luapp
+	url = https://github.com/Theintercooler/Luapp.git
 [submodule "libraries/OpenDBX-uv"]
 	path = libraries/OpenDBX-uv
-	url = https://github.com/Theintercooler/OpenDBX-uv
+	url = https://github.com/Theintercooler/OpenDBX-uv.git
 [submodule "libraries/yajl"]
 	path = libraries/yajl
-	url = https://github.com/Theintercooler/yajl
+	url = https://github.com/Theintercooler/yajl.git
 [submodule "libraries/http-parser"]
 	path = libraries/http-parser
-	url = https://github.com/Theintercooler/http-parser
+	url = https://github.com/Theintercooler/http-parser.git
 [submodule "resources/lua/luautil"]
 	path = resources/lua/luautil
-	url = https://github.com/killme/luautil
+	url = https://github.com/killme/luautil.git
 [submodule "resources/lua/luagd"]
 	path = resources/lua/luagd
 	url = https://github.com/killme/luagd.git
+[submodule "resources/lua/rabbitmq"]
+	path = resources/lua/rabbitmq
+	url = https://github.com/killme/rabbitmq-lua.git
+[submodule "resources/lua/ibmt"]
+	path = resources/lua/ibmt
+	url = https://github.com/killme/ibmt.git
