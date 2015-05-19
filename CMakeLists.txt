@@ -33,3 +33,8 @@ add_subdirectory(libraries/OpenDBX-uv)
 add_subdirectory(libraries/OpenDBX-uv-lua)
 add_subdirectory(libraries/luvit)
 add_subdirectory(libraries/Luapp)
+
+install(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/resources/lua
+    DESTINATION ${INSTALL_LUA_DIR}/..
+    PATTERN "*"
+    REGEX ".git*" EXCLUDE)
